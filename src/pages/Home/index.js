@@ -4,7 +4,7 @@ import {StyleSheet, Text, View} from 'react-native';
 const Home = () => {
   return (
     <View>
-      <Text>Beranda WEB dengan github </Text>
+      <Text>Beranda WEB dengan github dengan stack component</Text>
     </View>
   );
 };
